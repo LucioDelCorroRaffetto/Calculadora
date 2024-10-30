@@ -1,5 +1,5 @@
-function potencia(base, exponente) {
-    return Math.pow(base, exponente);
+function potencia(a, b) {
+    return Math.pow(a, b);
 }
 
 module.exports = potencia;

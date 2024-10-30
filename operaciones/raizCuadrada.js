@@ -1,5 +1,5 @@
-function raizCuadrada(num){
-    return Math.sqrt(num);
+function raizCuadrada(a){
+    return Math.sqrt(a);
 }
 
 module.exports = raizCuadrada;
